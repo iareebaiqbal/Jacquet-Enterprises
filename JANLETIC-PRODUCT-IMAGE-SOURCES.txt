@@ -1,0 +1,13 @@
+Product imagery in the product grids uses image URLs from the official Janletic Sports website (janleticsports.com), as requested.
+
+Official product image sources used:
+- Soccer Jersey SMSC101
+- Hoodie AMHD004
+- Gym Shorts AMST004
+- Rugby Jersey SMRB101
+- Cycling Jersey SMCL109
+- Cricket Jersey SMCK102
+- American Football Jersey SMAF104
+- Janletic Sports Product Cover
+
+The site branding remains Jacquet Enterprises; the images are retained from the Janletic Sports product catalog at the user's request.

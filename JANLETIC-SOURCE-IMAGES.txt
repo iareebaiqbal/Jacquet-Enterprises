@@ -1,0 +1,14 @@
+hero: https://janleticsports.com/wp-content/uploads/2026/03/Jacquet Enterprises-Sports-Custom-sports-uniforms-and-activewear-makers.webp
+athlete: https://janleticsports.com/wp-content/uploads/2023/03/Jacquet Enterprises-Sports-Apparel-manufacturer-3.jpg
+product_cover: https://janleticsports.com/wp-content/uploads/2021/09/Jacquet Enterprises-Sports-Product-Cover.jpg
+hoodie: https://janleticsports.com/wp-content/uploads/2022/02/active-wear-gym-hoodie-AMHD004-600x600.jpg
+cricket_front: https://janleticsports.com/wp-content/uploads/2022/02/cricket-uniform-jersey-kit-SMCK102-600x600.jpg
+cricket_back: https://janleticsports.com/wp-content/uploads/2022/02/cricket-uniform-jersey-kit-SMCK10201-600x600.jpg
+cycling: https://janleticsports.com/wp-content/uploads/2022/02/cycling-jersey-SMCL109-600x600.jpg.webp
+pattern: https://janleticsports.com/wp-content/uploads/2022/08/Sampling-and-Pattren-Making-Jacquet Enterprises-sports.jpg
+sample: https://janleticsports.com/wp-content/uploads/2022/08/sample-production.jpg
+fabric: https://janleticsports.com/wp-content/uploads/2022/08/fabric-polyester.jpg
+cutting: https://janleticsports.com/wp-content/uploads/2022/08/janletic-cutting-material-fabric.jpg
+bulk: https://janleticsports.com/wp-content/uploads/2022/08/bulk-production.jpg
+delivery: https://janleticsports.com/wp-content/uploads/2022/08/janletic-deliver-sportswear.jpg
+football: https://janleticsports.com/wp-content/uploads/2022/02/american-football-uniform-jersey-SMAF104-600x600.jpg
